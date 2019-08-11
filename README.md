@@ -1,7 +1,8 @@
-# gunali
+＃管理中心
 
-> A Vue.js project
-
+>一个Vue.js项目
+使用json-server搭建本地服务器
+vue2.x+axios实现个人中心的增添改查
 ## Build Setup
 
 ``` bash
